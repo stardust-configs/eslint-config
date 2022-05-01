@@ -2,7 +2,7 @@
   "name": "@stardust-configs/eslint-config",
   "version": "0.1.0",
   "description": "Shareable ESLint config",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "author": "P-Chan",
   "repository": {
     "type": "git",
