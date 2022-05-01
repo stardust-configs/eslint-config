@@ -1,12 +1,12 @@
 {
-  "name": "@startdust-configs/eslint-config",
+  "name": "@stardust-configs/eslint-config",
   "version": "0.1.0",
   "description": "Shareable ESLint config",
   "license": "UNLICENSED",
   "author": "P-Chan",
   "repository": {
     "type": "git",
-    "url": "https://github.com/startdust-configs/eslint-config.git"
+    "url": "https://github.com/stardust-configs/eslint-config.git"
   },
   "scripts": {
     "format": "prettier --write .",
