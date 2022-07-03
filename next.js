@@ -23,6 +23,7 @@ module.exports = {
     },
   },
   rules: {
+    'arrow-body-style': ['error', 'as-needed'],
     'react/react-in-jsx-scope': 'off',
   },
 }
