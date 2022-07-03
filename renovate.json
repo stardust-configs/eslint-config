@@ -2,6 +2,7 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "@stardust-configs/renovate-config:base",
+    "@stardust-configs/renovate-config:automergeNonMajor",
     ":pinAllExceptPeerDependencies",
     "schedule:monthly",
     ":label(dependencies)",
