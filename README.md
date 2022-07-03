@@ -22,9 +22,9 @@ Edit `.eslintrc.js`.
 
 <summary>Next.js</summary>
 
-```json
+```js
 module.exports = {
-  "extends": ["@stardust-configs/eslint-config/next"]
+  extends: ['@stardust-configs/eslint-config/next'],
 }
 ```
 
