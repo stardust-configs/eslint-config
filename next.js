@@ -17,6 +17,11 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 2020,
   },
+  settings: {
+    react: {
+      version: 'detect',
+    },
+  },
   rules: {
     'react/react-in-jsx-scope': 'off',
   },
