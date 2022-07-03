@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/stardust-configs/eslint-config/compare/v0.1.0...v0.2.0) (2022-07-03)
+
+
+### Features
+
+* add arrow-body-style ([7f77b3f](https://github.com/stardust-configs/eslint-config/commit/7f77b3f5131f9e5e6e45bef75f607cd163b79103))
+
+
+### Bug Fixes
+
+* add react version ([792372a](https://github.com/stardust-configs/eslint-config/commit/792372a17caafb74fa6f10f0766c417225eda02f))
+
 ## 0.1.0 (2022-05-01)
 
 
