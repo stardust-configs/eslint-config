@@ -1,0 +1,10 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "@stardust-configs/renovate-config:base",
+    ":pinAllExceptPeerDependencies",
+    "schedule:monthly",
+    ":label(dependencies)",
+    ":assignee(p-chan)"
+  ]
+}
