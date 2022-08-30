@@ -10,6 +10,7 @@
   },
   "scripts": {
     "format": "prettier --write .",
+    "postchangelog": "prettier --write ./CHANGELOG.md",
     "version:major": "standard-version -r major",
     "version:minor": "standard-version -r minor",
     "version:patch": "standard-version -r patch"
