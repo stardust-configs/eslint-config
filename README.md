@@ -24,7 +24,7 @@ Edit `.eslintrc.js`.
 
 ```js
 module.exports = {
-  extends: ['@stardust-configs/eslint-config/presets/next', '@stardust-configs/eslint-config/configs/prettier],
+  extends: ['@stardust-configs/eslint-config/presets/next', '@stardust-configs/eslint-config/configs/prettier'],
 }
 ```
 
