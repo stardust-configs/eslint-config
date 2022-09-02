@@ -5,13 +5,13 @@
 ## Install
 
 ```sh
-npm install @stardust-configs/eslint-config -D
+npm install eslint @stardust-configs/eslint-config -D
 ```
 
 or
 
 ```sh
-yarn add @stardust-configs/eslint-config -D
+yarn add eslint @stardust-configs/eslint-config -D
 ```
 
 ## Usage
