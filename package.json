@@ -14,6 +14,7 @@
     "dev": "tsc --watch",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
+    "prepublishOnly": "npm run build",
     "version:major": "standard-version -r major",
     "version:minor": "standard-version -r minor",
     "version:patch": "standard-version -r patch"
