@@ -100,6 +100,11 @@
   resolved "https://registry.yarnpkg.com/@stardust-configs/prettier-config/-/prettier-config-0.1.1.tgz#b79ee6bcd84c926501cd0f4e3b0f02f2bfb57415"
   integrity sha512-KVNeDikcETcc9IuK69kk66O01I/8TdtzY6T4RTcjoqPJtD1NLe/cQkWTTAY6vqXZ8blOwexkOLFv11pXrZTjRA==
 
+"@stardust-configs/tsconfig@0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@stardust-configs/tsconfig/-/tsconfig-0.2.0.tgz#0c52c1c2cb81f3d07f9773e43fba63b94c36d809"
+  integrity sha512-tLca2RnuVxvwD9wqlAL81QcNR4uZdkkG5zmDJUN3e7kaIoUUx7lx6KT2D0Cp8y1dFXfhQnDroF5ykCGv9pnxYw==
+
 "@types/json-schema@^7.0.9":
   version "7.0.11"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.11.tgz#d421b6c527a3037f7c84433fd2c4229e016863d3"
@@ -2400,6 +2405,11 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
+
+typescript@4.8.4:
+  version "4.8.4"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.8.4.tgz#c464abca159669597be5f96b8943500b238e60e6"
+  integrity sha512-QCh+85mCy+h0IGff8r5XWzOVSbBO+KfeYrMQh7NJ58QujwcE22u+NUSmUxqF+un70P9GXKxa2HCNiTTMJknyjQ==
 
 uglify-js@^3.1.4:
   version "3.15.4"

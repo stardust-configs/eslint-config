@@ -9,6 +9,7 @@
     "url": "https://github.com/stardust-configs/eslint-config.git"
   },
   "scripts": {
+    "build": "tsc",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "version:major": "standard-version -r major",
@@ -24,9 +25,11 @@
   },
   "devDependencies": {
     "@stardust-configs/prettier-config": "0.1.1",
+    "@stardust-configs/tsconfig": "0.2.0",
     "eslint": "8.24.0",
     "prettier": "2.7.1",
-    "standard-version": "9.5.0"
+    "standard-version": "9.5.0",
+    "typescript": "4.8.4"
   },
   "peerDependencies": {
     "eslint": "^8.9.0",
