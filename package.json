@@ -9,7 +9,8 @@
     "url": "https://github.com/stardust-configs/eslint-config.git"
   },
   "scripts": {
-    "build": "tsc",
+    "build": "npm run clean && tsc",
+    "clean": "rimraf ./**/*.js",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "version:major": "standard-version -r major",
@@ -28,6 +29,7 @@
     "@stardust-configs/tsconfig": "0.2.0",
     "eslint": "8.24.0",
     "prettier": "2.7.1",
+    "rimraf": "3.0.2",
     "standard-version": "9.5.0",
     "typescript": "4.8.4"
   },
