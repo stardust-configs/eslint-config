@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   env: {
     es2019: true,
   },
