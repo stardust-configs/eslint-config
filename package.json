@@ -10,7 +10,7 @@
   },
   "scripts": {
     "build": "npm run clean && tsc",
-    "clean": "rimraf ./**/*.js",
+    "clean": "rimraf \"./{,!(node_modules)/**/}*.js\"",
     "dev": "tsc --watch",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
