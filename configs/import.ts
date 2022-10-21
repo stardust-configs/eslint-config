@@ -1,4 +1,4 @@
-export default {
+export = {
   plugins: ['import'],
   rules: {
     /**
