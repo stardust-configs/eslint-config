@@ -1,4 +1,4 @@
-export default {
+export = {
   extends: ['plugin:react/recommended'],
   settings: {
     react: {
