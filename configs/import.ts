@@ -25,5 +25,6 @@ export = {
         },
       },
     ],
+    'import/newline-after-import': ['error'],
   },
 }
