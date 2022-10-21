@@ -1,4 +1,4 @@
-export default {
+export = {
   env: {
     node: true,
   },

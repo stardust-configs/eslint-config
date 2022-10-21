@@ -1,4 +1,4 @@
-export default {
+export = {
   extends: [
     '../environments/browser',
     '../environments/node',

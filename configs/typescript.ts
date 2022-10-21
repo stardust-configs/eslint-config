@@ -1,4 +1,4 @@
-export default {
+export = {
   extends: ['plugin:@typescript-eslint/recommended'],
   rules: {
     '@typescript-eslint/consistent-type-imports': [

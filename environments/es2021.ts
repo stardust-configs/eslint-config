@@ -1,4 +1,4 @@
-export default {
+export = {
   env: {
     es2021: true,
   },
