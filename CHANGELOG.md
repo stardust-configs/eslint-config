@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.4.1](https://github.com/stardust-configs/eslint-config/compare/v0.4.0...v0.4.1) (2022-10-23)
+
+### Bug Fixes
+
+- fix not contain js ([434729b](https://github.com/stardust-configs/eslint-config/commit/434729b0c9f50136b9cb49b2d63f881a981fc912))
+
 ## [0.4.0](https://github.com/stardust-configs/eslint-config/compare/v0.3.0...v0.4.0) (2022-10-23)
 
 ### Features
