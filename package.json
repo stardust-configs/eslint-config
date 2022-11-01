@@ -34,7 +34,7 @@
   "devDependencies": {
     "@stardust-configs/prettier-config": "0.1.1",
     "@stardust-configs/tsconfig": "0.2.0",
-    "eslint": "8.24.0",
+    "eslint": "8.26.0",
     "prettier": "2.7.1",
     "rimraf": "3.0.2",
     "standard-version": "9.5.0",
