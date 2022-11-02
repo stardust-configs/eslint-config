@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.5.0](https://github.com/stardust-configs/eslint-config/compare/v0.4.1...v0.5.0) (2022-11-02)
+
+### Bug Fixes
+
+- **deps:** update dependency @next/eslint-plugin-next to v12.3.2 ([e00b080](https://github.com/stardust-configs/eslint-config/commit/e00b08027eabc32c37e545ff524d6f7f5d6b5ef9))
+- **deps:** update dependency @next/eslint-plugin-next to v13 ([3635f66](https://github.com/stardust-configs/eslint-config/commit/3635f668ce9930d3519cd3f75fca2a701b59ec64))
+- **deps:** update dependency eslint-plugin-react to v7.31.10 ([413219e](https://github.com/stardust-configs/eslint-config/commit/413219e14b6d32194e02d237c47a877ea425445a))
+- **deps:** update typescript-eslint monorepo to v5.42.0 ([b339e91](https://github.com/stardust-configs/eslint-config/commit/b339e9143b4e85f2dced2f6c0ebf00301433858b))
+
 ### [0.4.1](https://github.com/stardust-configs/eslint-config/compare/v0.4.0...v0.4.1) (2022-10-23)
 
 ### Bug Fixes
