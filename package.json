@@ -29,7 +29,7 @@
     "@typescript-eslint/parser": "5.42.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-import": "2.26.0",
-    "eslint-plugin-react": "7.31.10"
+    "eslint-plugin-react": "7.31.11"
   },
   "devDependencies": {
     "@stardust-configs/prettier-config": "0.1.1",
