@@ -6,13 +6,13 @@ export = {
     },
   },
   rules: {
-    'react/react-in-jsx-scope': 'off',
     'react/jsx-handler-names': [
-      'error',
+      'warn',
       {
         eventHandlerPrefix: 'handle',
         eventHandlerPropPrefix: 'on',
       },
     ],
+    'react/react-in-jsx-scope': 'off',
   },
 }
