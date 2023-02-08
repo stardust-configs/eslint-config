@@ -7,6 +7,7 @@ export = {
   },
   rules: {
     'react/hook-use-state': 'warn',
+    'react/jsx-fragments': 'warn',
     'react/jsx-handler-names': [
       'warn',
       {
