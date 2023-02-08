@@ -15,6 +15,7 @@ export = {
         eventHandlerPropPrefix: 'on',
       },
     ],
+    'react/prefer-stateless-function': 'warn',
     'react/react-in-jsx-scope': 'off',
   },
 }
