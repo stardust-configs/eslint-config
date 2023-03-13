@@ -17,5 +17,12 @@ export = {
     ],
     'react/prefer-stateless-function': 'warn',
     'react/react-in-jsx-scope': 'off',
+    'react/self-closing-comp': [
+      'warn',
+      {
+        component: true,
+        html: true,
+      },
+    ],
   },
 }
