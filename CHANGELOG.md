@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.7.0](https://github.com/stardust-configs/eslint-config/compare/v0.6.0...v0.7.0) (2023-03-13)
+
+### Features
+
+- add eslint-plugin-react-hooks ([787e1e5](https://github.com/stardust-configs/eslint-config/commit/787e1e502b3deab3a670e99b1fee428f340513e3))
+- add react/self-closing-comp ([9ef6198](https://github.com/stardust-configs/eslint-config/commit/9ef619829939aa44c84af72abb906f0b6b79d3c1))
+
 ## [0.6.0](https://github.com/stardust-configs/eslint-config/compare/v0.5.0...v0.6.0) (2023-02-10)
 
 ### Features
