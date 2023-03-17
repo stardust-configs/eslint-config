@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.8.0](https://github.com/stardust-configs/eslint-config/compare/v0.7.0...v0.8.0) (2023-03-17)
+
+### Features
+
+- add jsonc/sort-array-values and jsonc/sort-keys rules to tsconfig.json properties ([8f917c9](https://github.com/stardust-configs/eslint-config/commit/8f917c904d07469625670c359d3fd07baef9c32f))
+- add jsonc/sort-array-values and jsonc/sort-keys to package.json properties ([76a24d3](https://github.com/stardust-configs/eslint-config/commit/76a24d391c2c002f1a21ae2566eb7b992d4b1c78))
+- add react/jsx-sort-props ([48fc069](https://github.com/stardust-configs/eslint-config/commit/48fc069223a5775b595208ffdf24fcbc5e190acd))
+
 ## [0.7.0](https://github.com/stardust-configs/eslint-config/compare/v0.6.0...v0.7.0) (2023-03-13)
 
 ### Features
