@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.9.0](https://github.com/stardust-configs/eslint-config/compare/v0.8.0...v0.9.0) (2023-03-17)
+
+### Features
+
+- add tailwindcss config ([31d6a05](https://github.com/stardust-configs/eslint-config/commit/31d6a05b2d53fc1b7d103f449b0f408d2ca5725e))
+
+### Bug Fixes
+
+- fix clean script ([c90ba49](https://github.com/stardust-configs/eslint-config/commit/c90ba498dab16dae1d045de7cd5007571a8fdec4))
+
 ## [0.8.0](https://github.com/stardust-configs/eslint-config/compare/v0.7.0...v0.8.0) (2023-03-17)
 
 ### Features
