@@ -15,6 +15,14 @@ export = {
         eventHandlerPropPrefix: 'on',
       },
     ],
+    'react/jsx-sort-props': [
+      'warn',
+      {
+        callbacksLast: true,
+        shorthandLast: true,
+        reservedFirst: true,
+      },
+    ],
     'react/prefer-stateless-function': 'warn',
     'react/react-in-jsx-scope': 'off',
     'react/self-closing-comp': [
