@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.10.0](https://github.com/stardust-configs/eslint-config/compare/v0.9.0...v0.10.0) (2023-04-15)
+
+### Features
+
+- add alias to pathGroups ([164dbb5](https://github.com/stardust-configs/eslint-config/commit/164dbb5427fd68605b5a61ec620e54b7ac7bf4e3))
+- add import/order helpers ([60fd6e8](https://github.com/stardust-configs/eslint-config/commit/60fd6e8db1c2a7fee6599174ea48734534e2b7e0))
+- remove presets ([02f0583](https://github.com/stardust-configs/eslint-config/commit/02f0583548f35660caacc96a394dac7784efd8d5))
+- update react/jsx-handler-names options ([0867b08](https://github.com/stardust-configs/eslint-config/commit/0867b0874454b55dd2c70788bcf08587cd96868f))
+
+### Bug Fixes
+
+- **deps:** update dependency @next/eslint-plugin-next to v13.2.4 ([1433240](https://github.com/stardust-configs/eslint-config/commit/1433240b51bb0a2c8ac5d6be70617464150fa07f))
+- **deps:** update dependency eslint-config-prettier to v8.8.0 ([dd14c9f](https://github.com/stardust-configs/eslint-config/commit/dd14c9f7c3b0990b21853531b5443ea7dba06b92))
+- **deps:** update typescript-eslint monorepo to v5.57.0 ([061ea55](https://github.com/stardust-configs/eslint-config/commit/061ea55be00534b19283a479d2d4683509447abb))
+
 ## [0.9.0](https://github.com/stardust-configs/eslint-config/compare/v0.8.0...v0.9.0) (2023-03-17)
 
 ### Features
