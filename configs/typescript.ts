@@ -26,6 +26,14 @@ export = {
       'error',
       {
         groups: ['builtin', 'external', 'internal', 'parent', 'sibling', 'index', 'object', 'type'],
+        pathGroups: [
+          {
+            pattern: '@/**',
+            group: 'internal',
+            position: 'before',
+          },
+        ],
+        pathGroupsExcludedImportTypes: ['builtin', 'object', 'type'],
         'newlines-between': 'always',
         alphabetize: {
           order: 'asc',
