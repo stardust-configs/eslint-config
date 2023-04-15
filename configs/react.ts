@@ -11,8 +11,8 @@ export = {
     'react/jsx-handler-names': [
       'warn',
       {
-        eventHandlerPrefix: 'handle',
-        eventHandlerPropPrefix: 'on',
+        checkLocalVariables: true,
+        checkInlineFunction: true,
       },
     ],
     'react/jsx-sort-props': [
