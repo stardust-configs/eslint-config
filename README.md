@@ -16,15 +16,49 @@ yarn add eslint @stardust-configs/eslint-config -D
 
 ## Usage
 
-Edit `.eslintrc.js`.
+Add environments and configs to `.eslintrc.js`.
+
+### Environments
+
+- `@stardust-configs/eslint-config/environments/browser`
+- `@stardust-configs/eslint-config/environments/node`
+- `@stardust-configs/eslint-config/environments/es5`
+- `@stardust-configs/eslint-config/environments/es6`
+- `@stardust-configs/eslint-config/environments/es2016`
+- `@stardust-configs/eslint-config/environments/es2017`
+- `@stardust-configs/eslint-config/environments/es2018`
+- `@stardust-configs/eslint-config/environments/es2019`
+- `@stardust-configs/eslint-config/environments/es2020`
+- `@stardust-configs/eslint-config/environments/es2021`
+- `@stardust-configs/eslint-config/environments/es2022`
+
+### Configs
+
+- `@stardust-configs/eslint-config/configs/npm`
+- `@stardust-configs/eslint-config/configs/typescript`
+- `@stardust-configs/eslint-config/configs/react`
+- `@stardust-configs/eslint-config/configs/tailwindcss`
+- `@stardust-configs/eslint-config/configs/next`
+- `@stardust-configs/eslint-config/configs/prettier`
+
+## Presets
 
 <details>
-
-<summary>Next.js</summary>
+<summary>TypeScript + React + Next.js</summary>
 
 ```js
 module.exports = {
-  extends: ['@stardust-configs/eslint-config/presets/next', '@stardust-configs/eslint-config/configs/prettier'],
+  extends: [
+    '@stardust-configs/eslint-config/environments/browser',
+    '@stardust-configs/eslint-config/environments/node',
+    '@stardust-configs/eslint-config/environments/es2022',
+    '@stardust-configs/eslint-config/configs/npm',
+    '@stardust-configs/eslint-config/configs/typescript',
+    '@stardust-configs/eslint-config/configs/react',
+    '@stardust-configs/eslint-config/configs/next',
+    // Always write on the last line
+    '@stardust-configs/eslint-config/configs/prettier',
+  ],
 }
 ```
 
