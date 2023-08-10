@@ -1,6 +1,6 @@
 export = {
   plugins: ['import'],
-  extends: ['plugin:@typescript-eslint/recommended', 'plugin:jsonc/base', 'plugin:jsonc/prettier'],
+  extends: ['plugin:@typescript-eslint/recommended'],
   rules: {
     /**
      * import/order does not sort members, use sort-imports to sort members
