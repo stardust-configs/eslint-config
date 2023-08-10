@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.11.0](https://github.com/stardust-configs/eslint-config/compare/v0.10.0...v0.11.0) (2023-08-10)
+
+### Features
+
+- add es2023 and es2024 ([#81](https://github.com/stardust-configs/eslint-config/issues/81)) ([bd36bdb](https://github.com/stardust-configs/eslint-config/commit/bd36bdba564fd070035a95f9ecd3840259586b6b))
+- remove sort rules ([#82](https://github.com/stardust-configs/eslint-config/issues/82)) ([7b4a647](https://github.com/stardust-configs/eslint-config/commit/7b4a6479db291d330e48154f0ad6d7a63b5b4abd))
+
+### Bug Fixes
+
+- **deps:** update dependency @next/eslint-plugin-next to v13.3.2 ([61f7082](https://github.com/stardust-configs/eslint-config/commit/61f708229f941628d77e99b43367b727e7489dab))
+- **deps:** update dependency @next/eslint-plugin-next to v13.4.4 ([300fcbc](https://github.com/stardust-configs/eslint-config/commit/300fcbc6d025a88eadc0ab8ad0e3c5a242dc4295))
+- **deps:** update dependency eslint-plugin-jsonc to v2.8.0 ([96bf1ab](https://github.com/stardust-configs/eslint-config/commit/96bf1ab08a3ffb87dde7ef4f5b74d3a347967768))
+- **deps:** update dependency eslint-plugin-tailwindcss to v3.11.0 ([55e551d](https://github.com/stardust-configs/eslint-config/commit/55e551d734bb98b6f4be7ad668cafd237059da0d))
+- **deps:** update dependency eslint-plugin-tailwindcss to v3.12.1 ([f1635db](https://github.com/stardust-configs/eslint-config/commit/f1635db0fe389032dbd0047635bda003ceb82fe1))
+- **deps:** update typescript-eslint monorepo to v5.59.1 ([2e68986](https://github.com/stardust-configs/eslint-config/commit/2e6898675d1ce2e93858ec5f8e5d4672198f7f11))
+- **deps:** update typescript-eslint monorepo to v5.59.8 ([c0d4a31](https://github.com/stardust-configs/eslint-config/commit/c0d4a31ab1d00ba94447ed4990950a6b5b331d85))
+
 ## [0.10.0](https://github.com/stardust-configs/eslint-config/compare/v0.9.0...v0.10.0) (2023-04-15)
 
 ### Features
