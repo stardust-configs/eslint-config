@@ -31,10 +31,11 @@ Add environments and configs to `.eslintrc.js`.
 - `@stardust-configs/eslint-config/environments/es2020`
 - `@stardust-configs/eslint-config/environments/es2021`
 - `@stardust-configs/eslint-config/environments/es2022`
+- `@stardust-configs/eslint-config/environments/es2023`
+- `@stardust-configs/eslint-config/environments/es2024`
 
 ### Configs
 
-- `@stardust-configs/eslint-config/configs/npm`
 - `@stardust-configs/eslint-config/configs/typescript`
 - `@stardust-configs/eslint-config/configs/react`
 - `@stardust-configs/eslint-config/configs/tailwindcss`
@@ -73,15 +74,7 @@ module.exports = {
   extends: [
     '@stardust-configs/eslint-config/environments/browser',
     '@stardust-configs/eslint-config/environments/node',
-<<<<<<< Updated upstream
-    '@stardust-configs/eslint-config/environments/es2022',
-    '@stardust-configs/eslint-config/configs/npm',
-    '@stardust-configs/eslint-config/configs/typescript',
-    '@stardust-configs/eslint-config/configs/react',
-    '@stardust-configs/eslint-config/configs/next',
-=======
     '@stardust-configs/eslint-config/environments/es2023',
->>>>>>> Stashed changes
     // Always write on the last line
     '@stardust-configs/eslint-config/configs/prettier',
   ],
