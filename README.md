@@ -44,6 +44,28 @@ Add environments and configs to `.eslintrc.js`.
 ## Presets
 
 <details>
+<summary>TypeScript</summary>
+
+```js
+module.exports = {
+  extends: [
+    '@stardust-configs/eslint-config/environments/node',
+    '@stardust-configs/eslint-config/environments/es2023',
+    // Always write on the last line
+    '@stardust-configs/eslint-config/configs/prettier',
+  ],
+  overrides: [
+    {
+      files: ['**/*.ts'],
+      extends: ['@stardust-configs/eslint-config/configs/typescript'],
+    },
+  ],
+}
+```
+
+</details>
+
+<details>
 <summary>TypeScript + React + Next.js</summary>
 
 ```js
@@ -51,13 +73,27 @@ module.exports = {
   extends: [
     '@stardust-configs/eslint-config/environments/browser',
     '@stardust-configs/eslint-config/environments/node',
+<<<<<<< Updated upstream
     '@stardust-configs/eslint-config/environments/es2022',
     '@stardust-configs/eslint-config/configs/npm',
     '@stardust-configs/eslint-config/configs/typescript',
     '@stardust-configs/eslint-config/configs/react',
     '@stardust-configs/eslint-config/configs/next',
+=======
+    '@stardust-configs/eslint-config/environments/es2023',
+>>>>>>> Stashed changes
     // Always write on the last line
     '@stardust-configs/eslint-config/configs/prettier',
+  ],
+  overrides: [
+    {
+      files: ['**/*.ts', '**/*.tsx'],
+      extends: [
+        '@stardust-configs/eslint-config/configs/typescript',
+        '@stardust-configs/eslint-config/configs/react',
+        '@stardust-configs/eslint-config/configs/next',
+      ],
+    },
   ],
 }
 ```
