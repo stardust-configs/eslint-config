@@ -22,6 +22,7 @@ export = {
       },
     ],
     'import/first': ['error'],
+    'import/no-duplicates': ['error'],
     'import/order': [
       'error',
       {
