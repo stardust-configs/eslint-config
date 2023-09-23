@@ -1,3 +1,6 @@
 export = {
   extends: ['eslint:recommended'],
+  parserOptions: {
+    ecmaVersion: 5,
+  },
 }
