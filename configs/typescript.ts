@@ -8,5 +8,15 @@ export = {
         prefer: 'type-imports',
       },
     ],
+    '@typescript-eslint/naming-convention': [
+      'warn',
+      // force boolean variables to have a prefix
+      {
+        format: ['PascalCase'],
+        prefix: ['is', 'has', 'can', 'should'],
+        selector: ['variable'],
+        types: ['boolean'],
+      },
+    ],
   },
 }
