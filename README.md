@@ -55,6 +55,9 @@ module.exports = {
     // Always write on the last line
     '@stardust-configs/eslint-config/configs/prettier',
   ],
+  parserOptions: {
+    project: './tsconfig.json',
+  },
   overrides: [
     {
       files: ['**/*.ts'],
@@ -78,6 +81,9 @@ module.exports = {
     // Always write on the last line
     '@stardust-configs/eslint-config/configs/prettier',
   ],
+  parserOptions: {
+    project: './tsconfig.json',
+  },
   overrides: [
     {
       files: ['**/*.ts', '**/*.tsx'],
