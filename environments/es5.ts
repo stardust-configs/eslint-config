@@ -3,4 +3,7 @@ export = {
   parserOptions: {
     ecmaVersion: 5,
   },
+  rules: {
+    'no-console': process.env.CI ? 'error' : 'warn',
+  },
 }
