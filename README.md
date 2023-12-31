@@ -106,7 +106,7 @@ Install [dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?item
 ```json
 {
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": "explicit"
   },
   "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"]
 }
