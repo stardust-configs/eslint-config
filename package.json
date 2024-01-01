@@ -31,7 +31,7 @@
     "eslint-plugin-import": "2.29.1",
     "eslint-plugin-react": "7.33.2",
     "eslint-plugin-react-hooks": "4.6.0",
-    "eslint-plugin-tailwindcss": "3.13.0"
+    "eslint-plugin-tailwindcss": "3.13.1"
   },
   "devDependencies": {
     "@stardust-configs/prettier-config": "0.3.0",
