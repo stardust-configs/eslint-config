@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.12.1](https://github.com/stardust-configs/eslint-config/compare/v0.12.0...v0.12.1) (2024-01-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @next/eslint-plugin-next to v13.5.3 ([#108](https://github.com/stardust-configs/eslint-config/issues/108)) ([e572abf](https://github.com/stardust-configs/eslint-config/commit/e572abf465024820e5708b5db99778cc919061e2))
+* **deps:** update dependency @next/eslint-plugin-next to v13.5.6 ([#111](https://github.com/stardust-configs/eslint-config/issues/111)) ([dc0ef43](https://github.com/stardust-configs/eslint-config/commit/dc0ef437a8ef793302c51f346176fe5614a29717))
+* **deps:** update dependency @next/eslint-plugin-next to v14 ([#116](https://github.com/stardust-configs/eslint-config/issues/116)) ([24fa953](https://github.com/stardust-configs/eslint-config/commit/24fa95308d9c11d81a17dd0f62d304f861b48793))
+* **deps:** update dependency @next/eslint-plugin-next to v14.0.3 ([#117](https://github.com/stardust-configs/eslint-config/issues/117)) ([44ad9bd](https://github.com/stardust-configs/eslint-config/commit/44ad9bd92a6a365862508a00f817cc2379ebe273))
+* **deps:** update dependency @next/eslint-plugin-next to v14.0.4 ([#130](https://github.com/stardust-configs/eslint-config/issues/130)) ([54fb04d](https://github.com/stardust-configs/eslint-config/commit/54fb04da99a03542213b066b2692cc8ac5acabcf))
+* **deps:** update dependency eslint-config-prettier to v9.1.0 ([#134](https://github.com/stardust-configs/eslint-config/issues/134)) ([4658167](https://github.com/stardust-configs/eslint-config/commit/4658167a58a0a415fea50d919a09565fb0febb77))
+* **deps:** update dependency eslint-plugin-import to v2.29.0 ([#113](https://github.com/stardust-configs/eslint-config/issues/113)) ([ece6ee5](https://github.com/stardust-configs/eslint-config/commit/ece6ee5ec6a2f5d13ea9f530f9895c572ebfb3ba))
+* **deps:** update dependency eslint-plugin-import to v2.29.1 ([#131](https://github.com/stardust-configs/eslint-config/issues/131)) ([ec118b9](https://github.com/stardust-configs/eslint-config/commit/ec118b9b3d9fe14176800dfeb8f4a73e1e7f1c7d))
+* **deps:** update dependency eslint-plugin-tailwindcss to v3.13.1 ([#132](https://github.com/stardust-configs/eslint-config/issues/132)) ([d95ff8d](https://github.com/stardust-configs/eslint-config/commit/d95ff8d07ef802524d6194ad76404a5033109100))
+* **deps:** update typescript-eslint monorepo to v6.13.1 ([#123](https://github.com/stardust-configs/eslint-config/issues/123)) ([c63134b](https://github.com/stardust-configs/eslint-config/commit/c63134b759994d21175b14119077463cd3a4ff59))
+* **deps:** update typescript-eslint monorepo to v6.16.0 ([#135](https://github.com/stardust-configs/eslint-config/issues/135)) ([28b909f](https://github.com/stardust-configs/eslint-config/commit/28b909f87b5ed8591728a585079159059070b8ab))
+* **deps:** update typescript-eslint monorepo to v6.7.3 ([#104](https://github.com/stardust-configs/eslint-config/issues/104)) ([adb9f36](https://github.com/stardust-configs/eslint-config/commit/adb9f36fdefb6937da1881b5f80e782df20f84ba))
+* **deps:** update typescript-eslint monorepo to v6.9.1 ([#114](https://github.com/stardust-configs/eslint-config/issues/114)) ([4e5c58e](https://github.com/stardust-configs/eslint-config/commit/4e5c58ea70285bd5a65dd1ac350a0c5db0f0adb7))
+
 ## [0.12.0](https://github.com/stardust-configs/eslint-config/compare/v0.11.0...v0.12.0) (2023-09-23)
 
 ### Features
