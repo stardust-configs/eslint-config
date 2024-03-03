@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.12.2](https://github.com/stardust-configs/eslint-config/compare/v0.12.1...v0.12.2) (2024-03-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @next/eslint-plugin-next to v14.1.0 ([#141](https://github.com/stardust-configs/eslint-config/issues/141)) ([e140ce4](https://github.com/stardust-configs/eslint-config/commit/e140ce4ec76640984d728402a4f060d2fdd77c95))
+* **deps:** update dependency eslint-plugin-tailwindcss to v3.14.1 ([#142](https://github.com/stardust-configs/eslint-config/issues/142)) ([7640f40](https://github.com/stardust-configs/eslint-config/commit/7640f40b3ce7850f0ae00142f5225dde4a0a9912))
+* **deps:** update dependency eslint-plugin-tailwindcss to v3.14.3 ([#146](https://github.com/stardust-configs/eslint-config/issues/146)) ([5684c8b](https://github.com/stardust-configs/eslint-config/commit/5684c8b8d99bd832f7e81c9d035a28bd4313309f))
+* **deps:** update typescript-eslint monorepo to v6.20.0 ([#143](https://github.com/stardust-configs/eslint-config/issues/143)) ([4c1ac1e](https://github.com/stardust-configs/eslint-config/commit/4c1ac1e713fb16bcd4b28d9a69e493577f98bfa4))
+
 ## [0.12.1](https://github.com/stardust-configs/eslint-config/compare/v0.12.0...v0.12.1) (2024-01-01)
 
 
