@@ -171,10 +171,10 @@
   resolved "https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.2.tgz#ee771e2ba4b3dc5b372935d549fd9617bf345b8c"
   integrity sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==
 
-"@types/node@20.17.21":
-  version "20.17.21"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.17.21.tgz#67ca074245f5e82c2e533cfb2944d9eea02338af"
-  integrity sha512-yw1WZ94lZpdZbpnaF+WRvlN/Sx2EZWe/YZVdK4mC4u02/ql6Ozen8qbRJhOtltOxCg97/kpijhGs5X6STwkvbg==
+"@types/node@20.17.29":
+  version "20.17.29"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.17.29.tgz#c0bb2b8d22c1d5135165b645d14b376e361becd8"
+  integrity sha512-6rbekrnsa5WWCo5UnPYEKfNuoF2yqAmigUKXM8wBzfEbZc+E/CITqjCrHqiq+6QBifsw0ZDaA5VdTFONOtG7+A==
   dependencies:
     undici-types "~6.19.2"
 
