@@ -41,7 +41,7 @@
     "prettier": "3.5.3",
     "rimraf": "5.0.10",
     "standard-version": "9.5.0",
-    "typescript": "5.8.2"
+    "typescript": "5.8.3"
   },
   "peerDependencies": {
     "eslint": "^8.44.0",
