@@ -1,6 +1,6 @@
 {
   "name": "@stardust-configs/eslint-config",
-  "version": "0.12.1",
+  "version": "0.12.2",
   "description": "Shareable ESLint config",
   "license": "MIT",
   "author": "P-Chan",
